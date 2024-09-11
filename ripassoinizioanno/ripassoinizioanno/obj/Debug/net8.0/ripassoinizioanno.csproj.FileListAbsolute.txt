@@ -1,0 +1,14 @@
+C:\Users\aless\OneDrive\Desktop\ripassoinizioanno\ripassoinizioanno\bin\Debug\net8.0\ripassoinizioanno.exe
+C:\Users\aless\OneDrive\Desktop\ripassoinizioanno\ripassoinizioanno\bin\Debug\net8.0\ripassoinizioanno.deps.json
+C:\Users\aless\OneDrive\Desktop\ripassoinizioanno\ripassoinizioanno\bin\Debug\net8.0\ripassoinizioanno.runtimeconfig.json
+C:\Users\aless\OneDrive\Desktop\ripassoinizioanno\ripassoinizioanno\bin\Debug\net8.0\ripassoinizioanno.dll
+C:\Users\aless\OneDrive\Desktop\ripassoinizioanno\ripassoinizioanno\bin\Debug\net8.0\ripassoinizioanno.pdb
+C:\Users\aless\OneDrive\Desktop\ripassoinizioanno\ripassoinizioanno\obj\Debug\net8.0\ripassoinizioanno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\OneDrive\Desktop\ripassoinizioanno\ripassoinizioanno\obj\Debug\net8.0\ripassoinizioanno.AssemblyInfoInputs.cache
+C:\Users\aless\OneDrive\Desktop\ripassoinizioanno\ripassoinizioanno\obj\Debug\net8.0\ripassoinizioanno.AssemblyInfo.cs
+C:\Users\aless\OneDrive\Desktop\ripassoinizioanno\ripassoinizioanno\obj\Debug\net8.0\ripassoinizioanno.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\ripassoinizioanno\ripassoinizioanno\obj\Debug\net8.0\ripassoinizioanno.dll
+C:\Users\aless\OneDrive\Desktop\ripassoinizioanno\ripassoinizioanno\obj\Debug\net8.0\refint\ripassoinizioanno.dll
+C:\Users\aless\OneDrive\Desktop\ripassoinizioanno\ripassoinizioanno\obj\Debug\net8.0\ripassoinizioanno.pdb
+C:\Users\aless\OneDrive\Desktop\ripassoinizioanno\ripassoinizioanno\obj\Debug\net8.0\ripassoinizioanno.genruntimeconfig.cache
+C:\Users\aless\OneDrive\Desktop\ripassoinizioanno\ripassoinizioanno\obj\Debug\net8.0\ref\ripassoinizioanno.dll
